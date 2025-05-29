@@ -5,6 +5,8 @@ A place for code creativity.
 ## Tools
 
 - [task](https://taskfile.dev)
+- [goose](https://github.com/pressly/goose)
+- [dockerfile](https://docs.docker.com/reference/dockerfile/)
 
 ## Dependencies
 
